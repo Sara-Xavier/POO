@@ -7,8 +7,9 @@ Este repositório contém resumos e anotações das aulas de **Programação Ori
 ## Índice
 
 - [Paradigmas da Programação](#paradigmas-da-programação) 
-- [Introdução à POO](#introdução-à-poo)
-- [Classes e Objetos](#classes-e-objetos)
+- [Aula 01 - Estruturas de Decisões](#estruturas-de-decisão)
+- [Classes](#classes)
+- [Objetos](#objetos)
 - [Encapsulamento](#encapsulamento)
 - [Herança](#herança)
 - [Polimorfismo](#polimorfismo)
