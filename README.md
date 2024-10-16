@@ -7,7 +7,7 @@ Este repositório contém resumos e anotações das aulas de **Programação Ori
 ## Índice
 
 - [Paradigmas da Programação](#paradigmas-da-programação) 
-- [Aula 01 - Estruturas de Decisão](#estruturas-de-decisão)
+- [Aula 01 - Estruturas de Decisão](estruturas-de-decisão.md)
 - [Classes](#classes)
 - [Objetos](#objetos)
 - [Encapsulamento](#encapsulamento)
